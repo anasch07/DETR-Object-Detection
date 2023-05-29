@@ -42,7 +42,7 @@ After obtaining the matched pairs, the loss function is computed. It involves a 
 
 In addition to the classification loss, DETR uses a box loss function that combines the L1 loss and the Generalized IOU loss. This loss helps predict the box directly without relying on anchor references or scaling issues. Both losses are normalized by the number of objects inside the batch.
 
-#### Please Check the folder DETR-LOSS-BENCHMARKING for the visualization of the loss function
+#### Please Check the  <u>DETR-LOSS-BENCHMARKING folder</u> for the visualization of the loss function
 
 
 ---
